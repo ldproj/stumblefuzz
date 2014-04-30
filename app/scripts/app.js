@@ -1,3 +1,3 @@
 'use strict';
 
-angular.module('masterStumblefuzzApp', []);
+angular.module('masterStumblefuzzApp', ['ngResource', 'ngCookies']);
